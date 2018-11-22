@@ -1,3 +1,4 @@
+test
 # ngx-launcher
 
 [![Build Status](https://semaphoreci.com/api/v1/fabric8-launcher/ngx-launcher/branches/master/shields_badge.svg)](https://semaphoreci.com/fabric8-launcher/ngx-launcher)
